@@ -1,8 +1,0 @@
-realrealrealreale<<<<<< HEAD
-rsdfasdfl;ksajdflksdjflsdf
-adsfsdaf
-my name is kim**real** jin
-=======
-my name is choi jin hyeok
-hihi
->>>>>>> 3way
